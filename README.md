@@ -1,6 +1,6 @@
 # clone-yt
 
-This project is about Youtube clone. I have tried to look as close as possible like Youtube. 
+This project is about Youtube clone. I have tried to look close to Youtube main page. 
 
 The web application is created using HTML, CSS and Javascript. The main aim of this projects is the front end design. I will keep adding functionalities in coming days. 
 
