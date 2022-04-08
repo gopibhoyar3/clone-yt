@@ -1,4 +1,4 @@
-# clone-yt
+# Video Streaming 
 
 This project is about Youtube clone. I have tried to look close to Youtube main page. 
 
